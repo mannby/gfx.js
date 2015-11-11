@@ -11,10 +11,11 @@
     "keywords": ["graphics", "browser"],
     "dependencies": {
         "express": "4.13.3",
-        "socket.io": "1.3.7",
+        "socket.io": "0.9.13",
         "pty.js": "chjj/pty.js",
         "recursive-readdir": "1.3.0",
-        "serve-favicon": "2.3.0"
+        "serve-favicon": "2.3.0",
+        "term.js": "chjj/term.js"
     },
     "optionalDependencies" : {
         "fsevents": "1.0.5"
